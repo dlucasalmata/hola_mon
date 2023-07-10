@@ -1,0 +1,11 @@
+h1 {
+    background-color: red;
+    color: blue;
+    font-size: xx-large;
+  }
+
+  .div-imatge{
+    position: absolute;
+    top: 200px;
+    left: 70px;
+  }
